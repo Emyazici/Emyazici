@@ -60,7 +60,7 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
     <td width="50%">
       <h3 align="center">🛒 HRDmSIntegratedSystem </h3>
       <p align="center">
-        <a href="https://github.com/Emyazici/REPO_ADI](https://github.com/Emyazici/HRDmSIntegratedSystem">
+        <a href="https://github.com/Emyazici/HRDmSIntegratedSystem](https://github.com/Emyazici/HRDmSIntegratedSystem">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=REPO_ADI&theme=tokyonight" />
         </a>
       </p>
