@@ -55,7 +55,6 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
 
 ## 📌 Featured Projects
 
-> ⚠️ **Not:** Aşağıdaki proje satırlarını kendi projelerinle değiştir!
 
 <table>
   <tr>
