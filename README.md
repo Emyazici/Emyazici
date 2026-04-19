@@ -55,13 +55,15 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
 
 ## 📌 Featured Projects
 
+> ⚠️ **Not:** Aşağıdaki proje satırlarını kendi projelerinle değiştir!
+
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🛒 HRDmSIntegratedSystem </h3>
+      <h3 align="center">🛒 HRDmSIntegratedSystem</h3>
       <p align="center">
-        <a href="https://github.com/Emyazici/HRDmSIntegratedSystem](https://github.com/Emyazici/HRDmSIntegratedSystem">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=REPO_ADI&theme=tokyonight" />
+        <a href="https://github.com/Emyazici/HRDmSIntegratedSystem">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=HRDmSIntegratedSystem&theme=tokyonight" />
         </a>
       </p>
       <p align="center">
@@ -74,10 +76,10 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📋 DDD-1</h3>
+      <h3 align="center">🎬 DDD-1</h3>
       <p align="center">
-        <a href="https://github.com/Emyazici/REPO_ADI_2](https://github.com/Emyazici/DDD-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=REPO_ADI_2&theme=tokyonight" />
+        <a href="https://github.com/Emyazici/DDD-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=DDD-1&theme=tokyonight" />
         </a>
       </p>
       <p align="center">
@@ -85,7 +87,7 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/DDD-512BD4?style=flat-square&logoColor=white" />
       </p>
     </td>
   </tr>
