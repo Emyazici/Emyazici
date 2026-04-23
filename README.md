@@ -75,14 +75,14 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎬 DDD-1</h3>
+      <h3 align="center">🎬 HotelAppDDD_2</h3>
       <p align="center">
-        <a href="https://github.com/Emyazici/DDD-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=DDD-1&theme=tokyonight" />
+        <a href="https://github.com/Emyazici/HotelAppDDD_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=HotelAppDDD_2&theme=tokyonight" />
         </a>
       </p>
       <p align="center">
-        C# ile yazılmış bir film kiralama domain modeli. Domain-Driven Design prensiplerini uygulamalı göstermek amacıyla yapılmıştır.
+        C# ile yazılmış bir otel reservasyom domain modeli. Domain-Driven Design prensiplerini uygulamalı göstermek amacıyla yapılmıştır.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
