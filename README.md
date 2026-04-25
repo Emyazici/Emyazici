@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:512BD4&height=200&section=header&text=Emre%20Yazici&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20.NET%20%26%20C%23&descAlignY=58&descAlign=50" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%F0%9F%8E%93;.NET+%26+ASP.NET+Web+API+Developer;N-Layer+Architecture+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=512BD4&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Emre+Yazici+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Computer+Engineering+Student+%F0%9F%8E%93;.NET+%26+ASP.NET+Web+API+Developer;N-Layer+Architecture+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
