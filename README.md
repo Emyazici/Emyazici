@@ -74,6 +74,22 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
     </td>
+        <td width="50%">
+      <h3 align="center">🛒 LibraryApp</h3>
+      <p align="center">
+        <a href="https://github.com/Emyazici/LibraryApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=LibraryApp&theme=tokyonight" />
+        </a>
+      </p>
+      <p align="center">
+        CQRS ve DDD prensiplerini uygulama amaçlı yapılan,Domain ve Application katmanlarını içeren örnek Kütüphane sistemi.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      </p>
+    </td>
     <td width="50%">
       <h3 align="center">🎬 HotelAppDDD_2</h3>
       <p align="center">
