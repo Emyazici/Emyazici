@@ -55,11 +55,10 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
 
 ## 📌 Featured Projects
 
-
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🛒 HRDmSIntegratedSystem</h3>
+      <h3 align="center">🏢 HRDmSIntegratedSystem</h3>
       <p align="center">
         <a href="https://github.com/Emyazici/HRDmSIntegratedSystem">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=HRDmSIntegratedSystem&theme=tokyonight" />
@@ -74,15 +73,32 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
     </td>
-        <td width="50%">
-      <h3 align="center">🛒 LibraryApp</h3>
+    <td width="50%">
+      <h3 align="center">📚 LibraryApp</h3>
       <p align="center">
         <a href="https://github.com/Emyazici/LibraryApp">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=LibraryApp&theme=tokyonight" />
         </a>
       </p>
       <p align="center">
-        CQRS ve DDD prensiplerini uygulama amaçlı yapılan,Domain ve Application katmanlarını içeren örnek Kütüphane sistemi.
+        CQRS ve DDD prensiplerini uygulama amaçlı yapılan, Domain ve Application katmanlarını içeren örnek Kütüphane sistemi.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/DDD-512BD4?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏨 HotelAppDDD_2</h3>
+      <p align="center">
+        <a href="https://github.com/Emyazici/HotelAppDDD_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=HotelAppDDD_2&theme=tokyonight" />
+        </a>
+      </p>
+      <p align="center">
+        C# ile yazılmış bir otel rezervasyon domain modeli. Domain-Driven Design prensiplerini uygulamalı göstermek amacıyla yapılmıştır.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
@@ -90,19 +106,7 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎬 HotelAppDDD_2</h3>
-      <p align="center">
-        <a href="https://github.com/Emyazici/HotelAppDDD_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emyazici&repo=HotelAppDDD_2&theme=tokyonight" />
-        </a>
-      </p>
-      <p align="center">
-        C# ile yazılmış bir otel reservasyom domain modeli. Domain-Driven Design prensiplerini uygulamalı göstermek amacıyla yapılmıştır.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/DDD-512BD4?style=flat-square&logoColor=white" />
-      </p>
+      <!-- Buraya gelecekte yeni bir proje eklenebilir -->
     </td>
   </tr>
 </table>
