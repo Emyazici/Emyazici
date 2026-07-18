@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:8B5CF6,50:6366F1,100:512BD4&text=Emre%20Yazıcı&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20•%20.NET%20%26%20C%23&descSize=20&descAlignY=75" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" width="120" title=".NET" />
+&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 
 <a href="https://git.io/typing-svg">
@@ -41,9 +43,10 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" title="Git" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" width="90" title=".NET" />
+&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" title="Docker" />
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" title="Linux" />
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" title="Python" />
 
 <br/><br/>
 
