@@ -29,7 +29,7 @@
 Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet University** based in Istanbul 🇹🇷
 
 - 🔭 Currently building full-stack apps with **C# .NET** and **ASP.NET Web API**
-- 🏗️ Passionate about clean architecture — especially **N-Layer** and **SOLID** principles
+- 🏗️ Passionate about **Clean Architecture** — especially **DDD** and **SOLID** principles
 - 🌱 Currently diving deeper into **Docker**, **Redis**, and **microservices**
 - 🎯 Goal: Build scalable backend systems that actually work in production
 - ⚡ Fun fact: I debug with coffee ☕ and commit at midnight
