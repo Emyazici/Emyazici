@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:8B5CF6,50:6366F1,100:512BD4&text=Emre%20Yazıcı&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20•%20.NET%20%26%20C%23&descSize=20&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:8B5CF6,50:6366F1,100:512BD4&text=Emre%20Yazıcı&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20•%20.NET%20%26%20C%23%20•%20Clean%20Architecture&descSize=20&descAlignY=75" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 &nbsp;&nbsp;
@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Emre+%F0%9F%91%8B;Computer+Engineering+Student+%40+FSMVU;.NET+%26+ASP.NET+Web+API+Developer;Clean+Architecture+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Emre+%F0%9F%91%8B;Computer+Engineering+Student+%40+FSMVU;.NET+%26+ASP.NET+Core+Web+API+Developer;DDD+%E2%80%A2+CQRS+%E2%80%A2+SOLID+%E2%80%A2+Clean+Architecture;Open+to+internships+%26+junior+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,12 +26,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="coding workspace gif" />
 
-Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet University** based in Istanbul 🇹🇷
+Hey! I'm Emre — a 3rd-year Computer Engineering student at **Fatih Sultan Mehmet University**, based in Istanbul 🇹🇷
 
-- 🔭 Currently building full-stack apps with **C# .NET** and **ASP.NET Web API**
-- 🏗️ Passionate about **Clean Architecture** — especially **DDD** and **SOLID** principles
+- 🔭 Building full-stack apps with **C# .NET** and **ASP.NET Core Web API**
+- 🏗️ Passionate about **Clean Architecture** — **DDD**, **CQRS** and **SOLID** in practice, not just theory
 - 🌱 Currently diving deeper into **Docker**, **Redis**, and **microservices**
-- 🎯 Goal: Build scalable backend systems that actually work in production
+- 🎯 Goal: build scalable backend systems that survive production
+- 💼 **Open to internships and junior backend roles**
 - ⚡ Fun fact: I debug with coffee ☕ and commit at midnight
 
 <br clear="right"/>
@@ -43,6 +44,32 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Emyazici/Emyazici/main/assets/clean-architecture.svg" width="95%" alt="Clean Architecture"/>
 </div>
+
+### 🧭 Principles I Code By
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="280" alt="architecture gif"/>
+
+| | Principle | How I apply it |
+|:---:|---|---|
+| **S** | Single Responsibility | One handler, one use case — thin controllers, focused services |
+| **O** | Open/Closed | Extend behavior with new handlers & strategies, not `if` chains |
+| **L** | Liskov Substitution | Abstractions that never surprise their callers |
+| **I** | Interface Segregation | Small, role-based interfaces over god-contracts |
+| **D** | Dependency Inversion | Domain at the center — infrastructure plugs in via **DI** |
+
+<br clear="right"/>
+
+<div align="center">
+
+![DDD](https://img.shields.io/badge/Domain--Driven%20Design-8B5CF6?style=for-the-badge&labelColor=0D1117)
+![CQRS](https://img.shields.io/badge/CQRS%20%2B%20MediatR-8B5CF6?style=for-the-badge&labelColor=0D1117)
+![DI](https://img.shields.io/badge/Dependency%20Injection-8B5CF6?style=for-the-badge&labelColor=0D1117)
+![Repository](https://img.shields.io/badge/Repository%20%2B%20Unit%20of%20Work-8B5CF6?style=for-the-badge&labelColor=0D1117)
+![EF Core](https://img.shields.io/badge/EF%20Core%20%2B%20Migrations-8B5CF6?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Tech Stack
 
@@ -73,15 +100,15 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
 <br/>
 
 ### 🏢 [HRDmSIntegratedSystem](https://github.com/Emyazici/HRDmSIntegratedSystem)
-ASP.NET MVC ile geliştirilmiş Döküman ve Çalışan Yönetimi. JWT auth, Entity Framework Core, SQL Server.
+Document & employee management system built with ASP.NET MVC — JWT auth, Entity Framework Core, SQL Server.
 `C#` `.NET` `SQL Server` `JWT`
 
 ### 📚 [LibraryApp](https://github.com/Emyazici/LibraryApp)
-CQRS ve DDD prensiplerini uygulama amaçlı yapılan, Domain ve Application katmanlarını içeren örnek Kütüphane sistemi.
+Library system applying **CQRS** and **DDD** — clean separation of Domain and Application layers.
 `C#` `DDD` `CQRS`
 
 ### 🏨 [HotelAppDDD_2](https://github.com/Emyazici/HotelAppDDD_2)
-C# ile yazılmış bir otel rezervasyon domain modeli. Domain-Driven Design prensiplerini uygulamalı göstermek amacıyla yapılmıştır.
+Hotel reservation domain model in C# — a hands-on showcase of Domain-Driven Design.
 `C#` `DDD`
 
 <br clear="right"/>
@@ -113,11 +140,20 @@ C# ile yazılmış bir otel rezervasyon domain modeli. Domain-Driven Design pren
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Emyazici&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emyazici&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=C9D1D9&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emyazici/Emyazici/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Emyazici/Emyazici/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</picture>
 
 </div>
 
