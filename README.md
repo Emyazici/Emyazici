@@ -38,6 +38,12 @@ Hey! I'm Emre, a 3rd year Computer Engineering student at **Fatih Sultan Mehmet 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 🏛️ How I Think About Architecture
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Emyazici/Emyazici/main/assets/clean-architecture.svg" width="95%" alt="Clean Architecture"/>
+</div>
+
 ## 🚀 Tech Stack
 
 <div align="center">
