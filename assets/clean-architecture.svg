@@ -1,0 +1,110 @@
+<svg width="900" height="460" viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+  <defs>
+    <radialGradient id="bgGlow" cx="30%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#161B27"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </radialGradient>
+    <linearGradient id="ring4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#312E81"/>
+      <stop offset="100%" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="ring3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4C1D95"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="ring2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="460" rx="16" fill="url(#bgGlow)" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="620" y="60" fill="#E6EDF3" font-size="26" font-weight="700">Clean Architecture</text>
+  <text x="620" y="86" fill="#8B949E" font-size="14">The Dependency Rule:</text>
+  <text x="620" y="106" fill="#8B949E" font-size="14">source code dependencies only</text>
+  <text x="620" y="126" fill="#8B949E" font-size="14">point inwards.</text>
+
+  <!-- Legend -->
+  <g font-size="14">
+    <circle cx="630" cy="170" r="7" fill="url(#ring4)" stroke="#4338CA"/>
+    <text x="648" y="175" fill="#C9D1D9">Frameworks &amp; Drivers</text>
+    <text x="648" y="193" fill="#6E7681" font-size="12">ASP.NET Web API · EF Core · PostgreSQL</text>
+
+    <circle cx="630" cy="225" r="7" fill="url(#ring3)" stroke="#6D28D9"/>
+    <text x="648" y="230" fill="#C9D1D9">Interface Adapters</text>
+    <text x="648" y="248" fill="#6E7681" font-size="12">Controllers · Presenters · Gateways</text>
+
+    <circle cx="630" cy="280" r="7" fill="url(#ring2)" stroke="#8B5CF6"/>
+    <text x="648" y="285" fill="#C9D1D9">Application</text>
+    <text x="648" y="303" fill="#6E7681" font-size="12">Use Cases · CQRS Handlers</text>
+
+    <circle cx="630" cy="335" r="7" fill="url(#core)" stroke="#A78BFA"/>
+    <text x="648" y="340" fill="#C9D1D9">Domain</text>
+    <text x="648" y="358" fill="#6E7681" font-size="12">Entities · Business Rules · SOLID</text>
+  </g>
+
+  <text x="620" y="415" fill="#484F58" font-size="12" font-style="italic">"The center of your application is not the database,</text>
+  <text x="620" y="433" fill="#484F58" font-size="12" font-style="italic">nor the framework — it is the use cases."</text>
+
+  <!-- Onion -->
+  <g transform="translate(300,230)">
+    <!-- Outer ring -->
+    <circle r="190" fill="url(#ring4)" stroke="#4338CA" stroke-width="2"/>
+    <!-- Ring 3 -->
+    <circle r="145" fill="url(#ring3)" stroke="#6D28D9" stroke-width="2"/>
+    <!-- Ring 2 -->
+    <circle r="100" fill="url(#ring2)" stroke="#8B5CF6" stroke-width="2"/>
+    <!-- Core -->
+    <circle r="55" fill="url(#core)" filter="url(#glow)">
+      <animate attributeName="r" values="55;58;55" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Rotating dashed orbit -->
+    <circle r="170" fill="none" stroke="#8B5CF6" stroke-width="1.5" stroke-dasharray="6 14" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="125" fill="none" stroke="#A78BFA" stroke-width="1.5" stroke-dasharray="4 12" opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Ring labels -->
+    <text y="-165" text-anchor="middle" fill="#A5B4FC" font-size="13" font-weight="600">FRAMEWORKS &amp; DRIVERS</text>
+    <text y="-118" text-anchor="middle" fill="#C4B5FD" font-size="13" font-weight="600">INTERFACE ADAPTERS</text>
+    <text y="-72" text-anchor="middle" fill="#DDD6FE" font-size="13" font-weight="600">APPLICATION</text>
+    <text y="-4" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="700">DOMAIN</text>
+    <text y="16" text-anchor="middle" fill="#EDE9FE" font-size="11">Entities</text>
+
+    <!-- Inward dependency arrows (animated dots) -->
+    <g fill="#A78BFA">
+      <circle r="4" cx="0" cy="-185">
+        <animate attributeName="cy" values="-185;-62" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="4" cx="185" cy="0">
+        <animate attributeName="cx" values="185;62" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="4" cx="0" cy="185">
+        <animate attributeName="cy" values="185;62" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="4" cx="-185" cy="0">
+        <animate attributeName="cx" values="-185;-62" dur="2.4s" begin="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="1.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>
