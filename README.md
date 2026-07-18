@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Emre+%F0%9F%91%8B;Computer+Engineering+Student+%40+FSMVU;.NET+%26+ASP.NET+Web+API+Developer;N-Layer+Architecture+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Emre+%F0%9F%91%8B;Computer+Engineering+Student+%40+FSMVU;.NET+%26+ASP.NET+Web+API+Developer;Clean+Architecture+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
