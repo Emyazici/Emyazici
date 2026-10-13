@@ -26,7 +26,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="coding workspace gif" />
 
-Hey! I'm Emre — a 3rd-year Computer Engineering student at **Fatih Sultan Mehmet University**, based in Istanbul 🇹🇷
+Hey! I'm Emre — a 4th-year Computer Engineering student at **Fatih Sultan Mehmet University**, based in Istanbul 🇹🇷
 
 - 🔭 Building full-stack apps with **C# .NET** and **ASP.NET Core Web API**
 - 🏗️ Passionate about **Clean Architecture** — **DDD**, **CQRS** and **SOLID** in practice, not just theory
